@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Golang, Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://nguyenhoangphuc.vercel.app/?fbclid=IwAR2lyWTnBnINsdxSLMaf3wB-yEXRrb0vcbvWQzL9Rf_QK8ewLqlTesmt8zM](https://nguyenhoangphuc.vercel.app/?fbclid=IwAR2lyWTnBnINsdxSLMaf3wB-yEXRrb0vcbvWQzL9Rf_QK8ewLqlTesmt8zM)
+- 👨‍💻 All of my projects are available at [https://nguyenhoangphuc.vercel.app/?fbclid=IwAR2lyWTnBnINsdxSLMaf3wB-yEXRrb0vcbvWQzL9Rf_QK8ewLqlTesmt8zM](https://nguyenhoangphuc.vercel.app)
 
 - 💬 Ask me about **React, Angular, Js**
 
