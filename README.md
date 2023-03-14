@@ -25,5 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhoangp&show_icons=true&locale=en" alt="zhoangp" /></p>
 
-<h2>repo</h2>
-![snake gif](https://github.com/zhoangp/zhoangp/blob/output/github-contribution-grid-snake.gif)
